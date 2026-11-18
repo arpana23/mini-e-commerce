@@ -1,3 +1,56 @@
+# Mini E-commerce Application
+
+A responsive Mini E-commerce application built using React.js that allows users to browse products, search and filter items, sort products, and manage their shopping cart. The application integrates the DummyJSON API to fetch product data dynamically.
+
+## Features
+
+- Fetch and display products using DummyJSON API
+- Product search functionality
+- Filter products by category
+- Sort products by price
+- Pagination for product listings
+- Add products to shopping cart
+- Update product quantities
+- Remove products from cart
+- Responsive user interface
+
+## Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- React Hooks (useState, useEffect)
+- Context API
+- DummyJSON API
+
+## Installation
+
+1. Clone the repository:
+
+   `git clone YOUR_REPOSITORY_URL`
+
+2. Navigate to the project directory:
+
+   `cd mini-e-commerce`
+
+3. Install dependencies:
+
+   `npm install`
+
+4. Start the development server:
+
+   `npm run dev`
+
+## API
+
+Product data is fetched from [DummyJSON](https://dummyjson.com/).
+
+## Project Purpose
+
+This project demonstrates practical knowledge of React.js, API integration, state management, component reusability, and dynamic UI development.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
