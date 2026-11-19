@@ -2,6 +2,10 @@
 # Live Demo
 https://e-commerce-react-store.netlify.app/
 
+# Screenshot
+<img width="1896" height="845" alt="e-commerce-store" src="https://github.com/user-attachments/assets/56b9f6c9-1af4-46fb-8b5d-793bf2e7b88d" />
+
+
 # Mini E-commerce Application
 
 A responsive Mini E-commerce application built using React.js that allows users to browse products, search and filter items, sort products, and manage their shopping cart. The application integrates the DummyJSON API to fetch product data dynamically.
