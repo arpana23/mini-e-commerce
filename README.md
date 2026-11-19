@@ -36,7 +36,7 @@ A responsive Mini E-commerce application built using React.js that allows users 
 
 1. Clone the repository:
 
-   `git clone YOUR_REPOSITORY_URL`
+   `git clone https://github.com/arpana23/mini-e-commerce.git`
 
 2. Navigate to the project directory:
 
